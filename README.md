@@ -11,4 +11,4 @@ Ensure that you have Python installed on your machine. Additionally, install the
 - pip install -r requirements.txt
 
 ##Contact
-If you have any questions, suggestions, or feedback, please contact Smit Rathod at rathodsmit2003@gmail.com
+If you have any questions, suggestions, or feedback, please contact Smit Rathod at rathodsmit2003@gmail.com.
